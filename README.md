@@ -119,7 +119,7 @@ This project includes **two interactive dashboards**:
 - Includes delivery performance breakdown  
 - Monthly trend analysis of logistics cost  
 
-![Overview Dashboard](Images/Deep Analysis Dashboard.png)
+![Overview Dashboard](Images/Deep_Analysis_Dashboard.png)
 
 ---
 
