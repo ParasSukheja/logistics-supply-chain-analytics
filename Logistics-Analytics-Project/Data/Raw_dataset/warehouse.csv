@@ -1,0 +1,16 @@
+Warehouse_ID,Warehouse_Location,Capacity,Region
+WH00001,Kolkata,6882,East
+WH00002,Kolkata,2513,North
+WH00003,Bangalore,3426,North
+WH00004,Chennai,5099,East
+WH00005,Kolkata,5854,South
+WH00006,Chennai,2506,East
+WH00007,Mumbai,7525,East
+WH00008,Delhi,3681,East
+WH00009,Mumbai,7812,East
+WH00010,Chennai,2919,North
+WH00011,Kolkata,4661,South
+WH00012,Kolkata,3014,East
+WH00013,Hyderabad,4153,West
+WH00014,Delhi,2917,North
+WH00015,Chennai,2052,East
