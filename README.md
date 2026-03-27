@@ -41,7 +41,7 @@ The dataset consists of multiple relational tables:
 - Shipments → Warehouse (M:1)  
 - Shipments → Cost (1:1)  
 
-![ER-Diagram](ER_diagram.png)
+![ER-Diagram](Logistics-Analytics-Project/Images/Deep_Analysis_Dashboard.png)
 
 ---
 
