@@ -41,7 +41,7 @@ The dataset consists of multiple relational tables:
 - Shipments → Warehouse (M:1)  
 - Shipments → Cost (1:1)  
 
-![ER-Diagram](Logistics-Analytics-Project/Images/ER_diagram.png)
+![ER-Diagram](Images/ER_diagram.png)
 
 ---
 
@@ -119,7 +119,7 @@ This project includes **two interactive dashboards**:
 - Includes delivery performance breakdown  
 - Monthly trend analysis of logistics cost  
 
-![Overview Dashboard](Logistics-Analytics-Project/Images/Overview_Dashboard.png)
+![Overview Dashboard](Images/Overview_Dashboard.png)
 
 ---
 
@@ -130,7 +130,7 @@ This project includes **two interactive dashboards**:
 - Shipping mode vs delay comparison  
 - Matrix view for regional cost patterns  
 
-![Deep Analysis Dashboard](Logistics-Analytics-Project/Images/Deep_Analysis_Dashboard.png)    
+![Deep Analysis Dashboard](Images/Deep_Analysis_Dashboard.png)    
 
 ### 🔹Key Features:
 - KPI cards (Cost, Orders, Delay)
